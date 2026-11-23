@@ -1,0 +1,11 @@
+{
+  "name": "asia-phone",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node tests/balance.test.js"
+  }
+}
